@@ -1,0 +1,29 @@
+.background{
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-image: url("http://webmadewell.com/wp-content/uploads/2018/01/img-bg-sample-parallax-header.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.principal{
+    text-align: center;
+}
+.mouse{
+    width: 500px;
+    height: 300px;
+}
+.teclado{
+    width: 500px;
+    height: 300px;
+}
+.headset{
+    width: 500px;
+    height: 300px;
+}
+footer{
+    width:100%;
+    background-color: white;
+    text-align: center;
+    background-image: url("http://webmadewell.com/wp-content/uploads/2018/01/img-bg-sample-parallax-header.jpg");
+}
