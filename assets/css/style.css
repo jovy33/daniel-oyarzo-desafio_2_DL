@@ -27,3 +27,7 @@ footer{
     text-align: center;
     background-image: url("http://webmadewell.com/wp-content/uploads/2018/01/img-bg-sample-parallax-header.jpg");
 }
+
+.tabla {
+    background-color: rgb(130, 178, 232);
+}
